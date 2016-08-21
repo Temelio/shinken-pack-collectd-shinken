@@ -1,0 +1,6 @@
+{
+    "name": "collectd-shinken",
+    "description": "Checks to manage our shinken collectd checks",
+    "path": "collectd-shinken",
+    "macros": {}
+}
